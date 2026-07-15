@@ -12,7 +12,6 @@ CareerRise is a full-stack job portal application built using the MERN stack (Mo
 - **Profile Management**: Both recruiters and candidates can manage their profiles.
 - **Job Application Tracking**: Users can track job applications and recruiters can monitor applicants for posted jobs.
 - **Responsive Design**: The platform is fully responsive and adapts seamlessly across mobile, tablet, and desktop devices.
-- **UI Enhancements**: Styled with Tailwind CSS and enhanced with Framer Motion animations for a modern and intuitive interface.
 
 ## Tech Stack
 
